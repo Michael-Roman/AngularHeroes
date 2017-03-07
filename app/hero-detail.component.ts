@@ -1,6 +1,3 @@
-/**
- * Created by Michael on 2/2/17.
- */
 import {Component, Input, OnInit} from '@angular/core';
 import {ActivatedRoute, Params} from '@angular/router';
 import {Location} from '@angular/common';
